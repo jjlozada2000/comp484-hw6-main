@@ -1,0 +1,48 @@
+/* Color Palette
+# - rgb(202, 202, 170)
+# - rgb(238, 197, 132)
+# - rgb(200, 171, 131)
+# - rgb(85, 134, 140)
+# - rgb(127, 99, 110)
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    font-family: 'Syne', sans-serif;
+    /*background: lightblue;*/
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.2em;
+}
+
+h2 {
+    font-size: 1.8em;
+    margin-bottom: 0.5em;
+}
+
+
+/* Header & Footer 
+------------------------------------*/
+.header-bg {
+    background: rgb(202, 202, 170)
+}
+.contact {
+    background: rgb(85, 134, 140)
+}
+
+
+/* Work Experience
+------------------------------------*/
+.work-history {
+    background: rgb(238, 197, 132)
+}
+
+
+/* Education
+------------------------------------*/
+.education-bg {
+    background: rgb(200, 171, 131)
+}
